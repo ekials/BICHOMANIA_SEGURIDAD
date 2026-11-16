@@ -1,0 +1,15 @@
+node_modules/
+target/
+.env
+.env.local
+.env.clever
+backend/.env
+backend/uploads/*
+!backend/uploads/.gitkeep
+reporte-xunit.xml
+CLAUDE.md
+.claude/
+Pr06.pdf
+NOTAS_PRACTICA.txt
+capturas/
+reportes/
